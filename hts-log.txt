@@ -1,0 +1,249 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 15 Mar 2024 21:40:03 at https://mall.cmsmasters.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mall.cmsmasters.net/ -O1 "C:\Users\vietanh\Documents\projectSem3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:41:58	Error: 	"Forbidden" (403) at link https://mall.cmsmasters.net/xmlrpc.php (from https://mall.cmsmasters.net/)
+21:42:14	Error: 	"Forbidden" (403) at link https://mall.cmsmasters.net/xmlrpc.php?rsd (from https://mall.cmsmasters.net/)
+22:00:14	Error: 	"Forbidden" (403) at link https://mall.cmsmasters.net/wp-content/plugins/cmsmasters-content-composer/ (from https://mall.cmsmasters.net/)
+22:02:43	Warning: 	File not parsed, looks like binary: https://mall.cmsmasters.net/wp-content/themes/mall/img/ilightbox/closedhand.cur
+22:02:43	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=3840
+22:02:43	Warning: 	File has moved from https://mall.cmsmasters.net/?p=3840 to https://mall.cmsmasters.net/cart/
+22:02:43	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=529
+22:02:43	Warning: 	File has moved from https://mall.cmsmasters.net/?p=529 to https://mall.cmsmasters.net/contacts/
+22:02:43	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8946
+22:02:43	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8946 to https://mall.cmsmasters.net/store-directory/
+22:02:43	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=526
+22:02:43	Warning: 	File has moved from https://mall.cmsmasters.net/?p=526 to https://mall.cmsmasters.net/news/
+22:03:46	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=3475
+22:03:46	Warning: 	File has moved from https://mall.cmsmasters.net/?p=3475 to https://mall.cmsmasters.net/gallery-2/
+22:04:46	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=60
+22:04:46	Warning: 	File has moved from https://mall.cmsmasters.net/?p=60 to https://mall.cmsmasters.net/about/
+22:04:46	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8551
+22:04:46	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8551 to https://mall.cmsmasters.net/shopping/
+22:04:46	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8559
+22:04:46	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8559 to https://mall.cmsmasters.net/dining/
+22:04:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://mall.cmsmasters.net/wp-content/uploads/2015/11/Fish-Bar1.png (from https://mall.cmsmasters.net/dining/)
+22:04:46	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8553
+22:04:46	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8553 to https://mall.cmsmasters.net/cinema/
+22:04:51	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8555
+22:04:51	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8555 to https://mall.cmsmasters.net/entertainment/
+22:04:51	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=116
+22:04:51	Warning: 	File has moved from https://mall.cmsmasters.net/?p=116 to https://mall.cmsmasters.net/buttons-icons/
+22:04:51	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=213
+22:04:51	Warning: 	File has moved from https://mall.cmsmasters.net/?p=213 to https://mall.cmsmasters.net/custom-html-css-js/
+22:04:51	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=216
+22:04:51	Warning: 	File has moved from https://mall.cmsmasters.net/?p=216 to https://mall.cmsmasters.net/dividers/
+22:04:51	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=317
+22:04:51	Warning: 	File has moved from https://mall.cmsmasters.net/?p=317 to https://mall.cmsmasters.net/icon-lists/
+22:04:51	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=545
+22:04:51	Warning: 	File has moved from https://mall.cmsmasters.net/?p=545 to https://mall.cmsmasters.net/portfolio-shortcode/
+22:05:17	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=426
+22:05:17	Warning: 	File has moved from https://mall.cmsmasters.net/?p=426 to https://mall.cmsmasters.net/quotes/
+22:05:17	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=231
+22:05:17	Warning: 	File has moved from https://mall.cmsmasters.net/?p=231 to https://mall.cmsmasters.net/embedded/
+22:05:17	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=252
+22:05:17	Warning: 	File has moved from https://mall.cmsmasters.net/?p=252 to https://mall.cmsmasters.net/featured-blocks/
+22:05:17	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=261
+22:05:17	Warning: 	File has moved from https://mall.cmsmasters.net/?p=261 to https://mall.cmsmasters.net/gallery/
+22:05:17	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=270
+22:05:17	Warning: 	File has moved from https://mall.cmsmasters.net/?p=270 to https://mall.cmsmasters.net/google-maps/
+22:05:17	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=358
+22:05:17	Warning: 	File has moved from https://mall.cmsmasters.net/?p=358 to https://mall.cmsmasters.net/images/
+22:05:17	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=391
+22:05:17	Warning: 	File has moved from https://mall.cmsmasters.net/?p=391 to https://mall.cmsmasters.net/posts-or-projects-slider/
+22:05:17	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=405
+22:05:17	Warning: 	File has moved from https://mall.cmsmasters.net/?p=405 to https://mall.cmsmasters.net/profiles/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=548
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=548 to https://mall.cmsmasters.net/social-sharing/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=552
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=552 to https://mall.cmsmasters.net/special-headings/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=564
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=564 to https://mall.cmsmasters.net/tables/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=169
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=169 to https://mall.cmsmasters.net/counters-progress-bars/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=289
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=289 to https://mall.cmsmasters.net/icon-boxes/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=375
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=375 to https://mall.cmsmasters.net/notice-boxes/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=401
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=401 to https://mall.cmsmasters.net/pricing-tables/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=430
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=430 to https://mall.cmsmasters.net/sidebar/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=434
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=434 to https://mall.cmsmasters.net/sliders/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=74
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=74 to https://mall.cmsmasters.net/blog-shortcode/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=567
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=567 to https://mall.cmsmasters.net/tabs-tours/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=575
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=575 to https://mall.cmsmasters.net/toggles-accordions/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=586
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=586 to https://mall.cmsmasters.net/tweets/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=151
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=151 to https://mall.cmsmasters.net/clients/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=887
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=887 to https://mall.cmsmasters.net/masonry-blog/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=882
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=882 to https://mall.cmsmasters.net/standard-blog/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=889
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=889 to https://mall.cmsmasters.net/timeline-blog/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=903
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=903 to https://mall.cmsmasters.net/no-gap-projects-grid/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=901
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=901 to https://mall.cmsmasters.net/projects-grid/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=907
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=907 to https://mall.cmsmasters.net/1-pixel-gap-projects-grid/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=922
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=922 to https://mall.cmsmasters.net/large-gap-masonry/
+22:05:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=919
+22:05:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=919 to https://mall.cmsmasters.net/no-gap-masonry/
+22:05:36	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=1140
+22:05:36	Warning: 	File has moved from https://mall.cmsmasters.net/?p=1140 to https://mall.cmsmasters.net/masonry-puzzle-1-pixel-gap/
+22:05:36	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=933
+22:05:36	Warning: 	File has moved from https://mall.cmsmasters.net/?p=933 to https://mall.cmsmasters.net/horizontal/
+22:05:36	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=929
+22:05:36	Warning: 	File has moved from https://mall.cmsmasters.net/?p=929 to https://mall.cmsmasters.net/vertical/
+22:05:36	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=1619
+22:05:36	Warning: 	File has moved from https://mall.cmsmasters.net/?p=1619 to https://mall.cmsmasters.net/profile/vanessa-adams/
+22:10:35	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=606
+22:10:35	Warning: 	File has moved from https://mall.cmsmasters.net/?p=606 to https://mall.cmsmasters.net/project/shopping-fever-save-up-to-75/
+22:10:37	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=103
+22:10:37	Warning: 	File has moved from https://mall.cmsmasters.net/?p=103 to https://mall.cmsmasters.net/2015/11/23/black-friday-and-cyber-monday-deals-worth-shopping-2/
+22:10:39	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=913
+22:10:39	Warning: 	File has moved from https://mall.cmsmasters.net/?p=913 to https://mall.cmsmasters.net/project/crazy-bowling-night/
+22:10:43	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=619
+22:10:43	Warning: 	File has moved from https://mall.cmsmasters.net/?p=619 to https://mall.cmsmasters.net/project/free-cupcakes-for-your-coffee/
+22:10:46	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=611
+22:10:46	Warning: 	File has moved from https://mall.cmsmasters.net/?p=611 to https://mall.cmsmasters.net/project/rollerdrome-family-skate-center/
+22:10:46	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=615
+22:10:46	Warning: 	File has moved from https://mall.cmsmasters.net/?p=615 to https://mall.cmsmasters.net/project/new-kids-playground-opening/
+22:10:46	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=613
+22:10:46	Warning: 	File has moved from https://mall.cmsmasters.net/?p=613 to https://mall.cmsmasters.net/project/bring-friends-save-on-popcorn/
+22:10:46	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8212
+22:10:46	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8212 to https://mall.cmsmasters.net/event/bring-friends-save-on-popkorn/
+22:11:17	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=2938
+22:11:17	Warning: 	File has moved from https://mall.cmsmasters.net/?p=2938 to https://mall.cmsmasters.net/2015/11/27/25-largest-shopping-malls-in-the-world/
+22:11:21	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=285
+22:11:21	Warning: 	File has moved from https://mall.cmsmasters.net/?p=285 to https://mall.cmsmasters.net/2015/11/22/fall-winter-2015-2016-color-trends/
+22:11:25	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=1965
+22:11:25	Warning: 	File has moved from https://mall.cmsmasters.net/?p=1965 to https://mall.cmsmasters.net/2015/11/18/holiday-weight-gain-bowling-can-help/
+22:11:28	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=87
+22:11:28	Warning: 	File has moved from https://mall.cmsmasters.net/?p=87 to https://mall.cmsmasters.net/2015/11/15/shopping-mall-gulliver-or-something-great-is-coming/
+22:11:30	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=85
+22:11:30	Warning: 	File has moved from https://mall.cmsmasters.net/?p=85 to https://mall.cmsmasters.net/2015/11/10/the-38-best-places-to-shop-for-shoes-on-the-internet/
+22:11:37	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=2965
+22:11:37	Warning: 	File has moved from https://mall.cmsmasters.net/?p=2965 to https://mall.cmsmasters.net/2015/11/03/world-film-market-trends-2016/
+22:11:45	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=106
+22:11:45	Warning: 	File has moved from https://mall.cmsmasters.net/?p=106 to https://mall.cmsmasters.net/2015/10/28/top-10-shopping-mall-christmas-decoration/
+22:11:46	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=2992
+22:11:46	Warning: 	File has moved from https://mall.cmsmasters.net/?p=2992 to https://mall.cmsmasters.net/2015/10/10/will-rollerblading-help-me-get-thinner-thighs/
+22:11:46	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8036
+22:11:46	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8036 to https://mall.cmsmasters.net/2015/10/05/9-secrets-to-making-your-outfit-look-expensive/
+22:11:46	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8748
+22:11:46	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8748 to https://mall.cmsmasters.net/fashion-brand/
+22:11:46	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8776
+22:11:46	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8776 to https://mall.cmsmasters.net/restaurant/
+22:11:46	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=10148
+22:11:46	Warning: 	File has moved from https://mall.cmsmasters.net/?p=10148 to https://mall.cmsmasters.net/privacy-policy/
+22:11:46	Warning: 	File not parsed, looks like binary: https://mall.cmsmasters.net/wp-content/plugins/revslider/public/assets/css/openhand.cur
+22:11:46	Warning: 	File not parsed, looks like binary: https://mall.cmsmasters.net/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+22:11:53	Warning: 	Moved Permanently for https://mall.cmsmasters.net/news/page/1/
+22:11:53	Warning: 	File has moved from https://mall.cmsmasters.net/news/page/1/ to https://mall.cmsmasters.net/news/
+22:12:02	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8142
+22:12:02	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8142 to https://mall.cmsmasters.net/event/black-friday-in-shopping-mall/
+22:12:34	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8206
+22:12:34	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8206 to https://mall.cmsmasters.net/event/roller-skating-for-family/
+22:12:50	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8204
+22:12:50	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8204 to https://mall.cmsmasters.net/event/shopping-fever-save-up-to-75/
+22:13:07	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=7970
+22:13:07	Warning: 	File has moved from https://mall.cmsmasters.net/?p=7970 to https://mall.cmsmasters.net/event/fashion-show/
+22:13:37	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8200
+22:13:37	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8200 to https://mall.cmsmasters.net/event/crazy-bowling-night/
+22:13:53	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8222
+22:13:53	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8222 to https://mall.cmsmasters.net/event/black-weekend/
+22:14:05	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=1596
+22:14:05	Warning: 	File has moved from https://mall.cmsmasters.net/?p=1596 to https://mall.cmsmasters.net/project/20-sale-collection-fw2015-16/
+22:14:07	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=1594
+22:14:07	Warning: 	File has moved from https://mall.cmsmasters.net/?p=1594 to https://mall.cmsmasters.net/project/big-sale-in-shopping-mall/
+22:14:07	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=1171
+22:14:07	Warning: 	File has moved from https://mall.cmsmasters.net/?p=1171 to https://mall.cmsmasters.net/project/crazy-bowling-night-2/
+22:14:07	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=1169
+22:14:07	Warning: 	File has moved from https://mall.cmsmasters.net/?p=1169 to https://mall.cmsmasters.net/project/cinema-city/
+22:14:07	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=1167
+22:14:07	Warning: 	File has moved from https://mall.cmsmasters.net/?p=1167 to https://mall.cmsmasters.net/project/70-on-all-clothing/
+22:14:07	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=1164
+22:14:07	Warning: 	File has moved from https://mall.cmsmasters.net/?p=1164 to https://mall.cmsmasters.net/project/gives-money-for-your-purchases/
+22:14:07	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=1158
+22:14:07	Warning: 	File has moved from https://mall.cmsmasters.net/?p=1158 to https://mall.cmsmasters.net/project/fun-happiness-emotions/
+22:14:07	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=1155
+22:14:07	Warning: 	File has moved from https://mall.cmsmasters.net/?p=1155 to https://mall.cmsmasters.net/project/coffee-time/
+22:14:07	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8788
+22:14:07	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8788 to https://mall.cmsmasters.net/movie/
+22:14:07	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8414
+22:14:07	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8414 to https://mall.cmsmasters.net/project/coffee-time-2/
+22:14:07	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=617
+22:14:07	Warning: 	File has moved from https://mall.cmsmasters.net/?p=617 to https://mall.cmsmasters.net/project/black-friday-in-shopping-mall/
+22:14:07	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=774
+22:14:07	Warning: 	File has moved from https://mall.cmsmasters.net/?p=774 to https://mall.cmsmasters.net/project/crazy-night-of-sales-in-shopping-mall/
+22:14:07	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=2548
+22:14:07	Warning: 	File has moved from https://mall.cmsmasters.net/?p=2548 to https://mall.cmsmasters.net/profile/ellie-brown/
+22:14:07	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=446
+22:14:07	Warning: 	File has moved from https://mall.cmsmasters.net/?p=446 to https://mall.cmsmasters.net/profile/ava-davis/
+22:14:07	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=410
+22:14:07	Warning: 	File has moved from https://mall.cmsmasters.net/?p=410 to https://mall.cmsmasters.net/profile/mia-sims/
+22:14:09	Warning: 	Moved Permanently for https://mall.cmsmasters.net/masonry-blog/page/1/
+22:14:09	Warning: 	File has moved from https://mall.cmsmasters.net/masonry-blog/page/1/ to https://mall.cmsmasters.net/masonry-blog/
+22:23:27	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=1667
+22:23:27	Warning: 	File has moved from https://mall.cmsmasters.net/?p=1667 to https://mall.cmsmasters.net/product/discount-coupon/
+22:23:38	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=1666
+22:23:38	Warning: 	File has moved from https://mall.cmsmasters.net/?p=1666 to https://mall.cmsmasters.net/product/gift-card/
+22:23:43	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=1668
+22:23:43	Warning: 	File has moved from https://mall.cmsmasters.net/?p=1668 to https://mall.cmsmasters.net/product/gift-certificate/
+22:23:49	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=1665
+22:23:49	Warning: 	File has moved from https://mall.cmsmasters.net/?p=1665 to https://mall.cmsmasters.net/product/loyalty-cart/
+22:23:54	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=1663
+22:23:54	Warning: 	File has moved from https://mall.cmsmasters.net/?p=1663 to https://mall.cmsmasters.net/product/present-coupon/
+22:24:02	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=1664
+22:24:02	Warning: 	File has moved from https://mall.cmsmasters.net/?p=1664 to https://mall.cmsmasters.net/product/souvenir-bottle/
+22:24:13	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=1655
+22:24:13	Warning: 	File has moved from https://mall.cmsmasters.net/?p=1655 to https://mall.cmsmasters.net/product/souvenirs-wine-bottle/
+22:24:18	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=1631
+22:24:18	Warning: 	File has moved from https://mall.cmsmasters.net/?p=1631 to https://mall.cmsmasters.net/product/vouchers/
+22:26:18	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8201
+22:26:18	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8201 to https://mall.cmsmasters.net/organizer/jacob-taylor/
+22:26:20	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8219
+22:26:20	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8219 to https://mall.cmsmasters.net/venue/cinema-city/
+22:26:23	Warning: 	Moved Permanently for https://mall.cmsmasters.net/author/cmsmasters/page/1/
+22:26:23	Warning: 	File has moved from https://mall.cmsmasters.net/author/cmsmasters/page/1/ to https://mall.cmsmasters.net/author/cmsmasters/
+22:28:04	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8151
+22:28:04	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8151 to https://mall.cmsmasters.net/organizer/linda-ford/
+22:28:07	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8152
+22:28:07	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8152 to https://mall.cmsmasters.net/venue/sitio-malabunot/
+22:28:08	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8208
+22:28:08	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8208 to https://mall.cmsmasters.net/venue/shopping-mall-4/
+22:28:10	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8205
+22:28:10	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8205 to https://mall.cmsmasters.net/venue/shopping-mall-3/
+22:38:17	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8137
+22:38:17	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8137 to https://mall.cmsmasters.net/organizer/kate-sims/
+22:38:19	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8138
+22:38:19	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8138 to https://mall.cmsmasters.net/venue/shopping-mall/
+22:38:22	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8202
+22:38:22	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8202 to https://mall.cmsmasters.net/venue/shopping-mall-2/
+22:38:25	Warning: 	Moved Permanently for https://mall.cmsmasters.net/?p=8229
+22:38:25	Warning: 	File has moved from https://mall.cmsmasters.net/?p=8229 to https://mall.cmsmasters.net/venue/shopping-mall-5/
+10:34:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://mall.cmsmasters.net/events/map/?tribe-bar-date=2024-04-04 (from https://mall.cmsmasters.net/events/2024-04-04/)
+10:36:50	Error: 	Exit requested by shell or user
+10:37:05	Error: 	Exit requested by shell or user
+10:37:05	Error: 	"" (-1) at link https://mall.cmsmasters.net/events/photo/2024-04-15/ (from https://mall.cmsmasters.net/events/2024-04-15/)
+10:37:05	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 hours 57 minutes 2 seconds : 4288 links scanned, 2856 files written (262487431 bytes overall) [83287718 bytes received at 1786 bytes/sec], 214296750 bytes transferred using HTTP compression in 1650 files, ratio 15%, 1.8 requests per connection
+(7 errors, 227 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
